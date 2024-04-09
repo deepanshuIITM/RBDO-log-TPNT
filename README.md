@@ -21,9 +21,9 @@
 
 **References:**
 
-[1]. FAC Viana, SURROGATES Toolbox User's Guide, Gainesville, FL, USA, version 3.0 ed., 2011, available at https://sites.google.com/site/srgtstoolbox/.
+    [1]. FAC Viana, SURROGATES Toolbox User's Guide, Gainesville, FL, USA, version 3.0 ed., 2011, available at https://sites.google.com/site/srgtstoolbox/.
 
-[2]. Ramu, P. & H., K. (2020). A log-third order polynomial normal transformation approach for high-reliability estimation with scarce samples. International Journal of Reliability and Safety, 14(1):14–38. doi: 10.1504/IJRS.2020.105890
+    [2]. Ramu, P. & H., K. (2020). A log-third order polynomial normal transformation approach for high-reliability estimation with scarce samples. International Journal of Reliability and Safety, 14(1):14–38. doi: 10.1504/IJRS.2020.105890
 
-[3]. Lee, I., Lee, U., Ramu, P., Yadav, D., Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. Structural and Multidisciplinary Optimization, 65(11), 326.
+    [3]. Lee, I., Lee, U., Ramu, P., Yadav, D., Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. Structural and Multidisciplinary Optimization, 65(11), 326.
 
